@@ -1,0 +1,7 @@
+{
+  "name": "AIPCOS - AI Project Controls OS",
+  "description": "Enterprise-grade AI-powered Project Controls Operating System for Planning, Cost, and Construction Management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
